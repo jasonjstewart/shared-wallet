@@ -1,1 +1,1 @@
-Shared Wallet Example# shared-wallet
+# shared-wallet
