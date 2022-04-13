@@ -9,15 +9,11 @@ pragma solidity ^0.8.0;
 // 3. Withdraw funds up to the amount that they have deposited. DONE
 // 4. The owner of the contract should also have the ability to emergency withdraw all of the funds. DONE
 
-// There are a number of bugs and security vulnerabilities.
-
 
 // TODO:
-// 1. Please remedy as many bugs/exploits as you can.
+// 1. Implement the 2 block withdrawal time limit outlined in #2 above ^.
 
-// 2. Implement the 2 block withdrawal time limit outlined in #2 above ^.
-
-// 3. Deploy the contract to the Polygon Mumbai Testnet and send your recruiter the contract address.
+// 2. Deploy the contract to the Polygon Mumbai Testnet
 
 contract SharedWallet {
 
